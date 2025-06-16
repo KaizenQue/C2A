@@ -1,0 +1,201 @@
+
+
+const ContactUs = () => {
+  	return (
+    		<div style={{width: "100%", position: "relative", backgroundColor: "#d2d5ce", height: "3991px", overflow: "hidden", textAlign: "left", fontSize: "18px", color: "#f9f9f9", fontFamily: "Poppins",}}>
+      			<div style={{position: "absolute", top: "136px", left: "0px", backgroundColor: "#162766", width: "1440px", height: "1794px", overflow: "hidden", fontSize: "28px",}}>
+        				<img style={{position: "absolute", height: "33.2%", top: "10.38%", bottom: "56.42%", left: "calc(50% - 702px)", maxHeight: "100%", width: "1405px",}} alt="" src="Vector.svg" />
+        				<div style={{position: "absolute", top: "calc(50% - 1222px)", left: "calc(50% - 640px)", lineHeight: "85.61px", textAlign: "center", display: "inline-block", width: "829px", fontSize: "132px",}}>
+          					<b>
+            						<span>Get in touch</span>
+            						<span style={{fontSize: "112.5px",}}>{` `}</span>
+          					</b>
+          					<span style={{fontSize: "56px", fontWeight: "500",}}>with our team</span>
+        				</div>
+        				<div style={{position: "absolute", top: "219px", left: "calc(50% - 397px)", backdropFilter: "blur(36.76px)", borderRadius: "22.06px", background: "linear-gradient(180deg, rgba(12, 24, 65, 0.49), rgba(10, 18, 49, 0))", width: "794px", height: "832px", overflow: "hidden", fontSize: "18px", color: "#686b9a",}}>
+          					<div style={{position: "absolute", top: "85.77px", left: "calc(50% - 107px)", fontSize: "38.3px", fontWeight: "600", color: "#f9f9f9",}}>Contact us</div>
+          					<div style={{position: "absolute", top: "166.64px", left: "calc(50% - 287px)", borderRadius: "17.15px", border: "1.1px solid #f9f9f9", boxSizing: "border-box", width: "573.2px", height: "47.8px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "10.9px 10.9px 10.9px 33.7px", color: "#d8d8d8",}}>
+            						<div style={{position: "relative",}}>Name</div>
+          					</div>
+          					<div style={{position: "absolute", top: "237px", left: "calc(50% - 287px)", borderRadius: "17.15px", border: "1px solid #686b9a", boxSizing: "border-box", width: "573.2px", height: "47.8px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "8.6px 8.6px 8.6px 34px",}}>
+            						<div style={{position: "relative",}}>Last Name</div>
+          					</div>
+          					<div style={{position: "absolute", top: "308px", left: "calc(50% - 287px)", borderRadius: "17.15px", border: "1px solid #686b9a", boxSizing: "border-box", width: "573.2px", height: "46.6px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "9.7px 9.7px 9.7px 34px",}}>
+            						<div style={{position: "relative",}}>Email</div>
+          					</div>
+          					<div style={{position: "absolute", top: "378px", left: "calc(50% - 287px)", borderRadius: "17.15px", border: "1px solid #686b9a", boxSizing: "border-box", width: "573.2px", height: "46.6px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "9.7px 9.7px 9.7px 34px",}}>
+            						<div style={{position: "relative",}}>Phone Number</div>
+          					</div>
+          					<div style={{position: "absolute", top: "448px", left: "calc(50% - 287px)", borderRadius: "17.15px", border: "1px solid #686b9a", boxSizing: "border-box", width: "573.2px", height: "182.6px", textAlign: "center", fontSize: "17.15px",}}>
+            						<div style={{position: "absolute", top: "22px", left: "34px",}}>Message</div>
+          					</div>
+          					<div style={{position: "absolute", top: "699.66px", left: "calc(50% - 106px)", borderRadius: "10.21px", backgroundColor: "#f2c438", width: "212.8px", height: "46.8px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "center", padding: "16.2px 59.6px", boxSizing: "border-box", fontSize: "17.02px", color: "#0d0d0d",}}>
+            						<div style={{position: "relative", textTransform: "uppercase", fontWeight: "600",}}>Submit</div>
+          					</div>
+        				</div>
+        				<div style={{position: "absolute", top: "1324px", left: "101px", borderRadius: "12px", border: "1px solid rgba(112, 150, 209, 0.22)", boxSizing: "border-box", width: "378px", height: "349px",}}>
+          					<img style={{position: "absolute", top: "40px", left: "27px", width: "94px", height: "94px",}} alt="" src="Frame 35578.svg" />
+          					<div style={{position: "absolute", top: "169px", left: "27px", fontWeight: "600",}}>+1 (555) 000-0000</div>
+          					<div style={{position: "absolute", top: "246px", left: "27px", fontSize: "26px", fontWeight: "300", color: "#fff",}}>Give us a Call</div>
+        				</div>
+        				<div style={{position: "absolute", top: "1324px", left: "531px", borderRadius: "12px", border: "1px solid rgba(112, 150, 209, 0.22)", boxSizing: "border-box", width: "378px", height: "349px",}}>
+          					<img style={{position: "absolute", top: "40px", left: "27px", width: "94px", height: "94px",}} alt="" src="Frame 35580.svg" />
+          					<div style={{position: "absolute", top: "168px", left: "27px", fontWeight: "600",}}>support@domain.com</div>
+          					<div style={{position: "absolute", top: "245px", left: "27px", fontSize: "26px", fontWeight: "300", color: "#fff",}}>Send an Email</div>
+        				</div>
+        				<div style={{position: "absolute", top: "1324px", left: "961px", borderRadius: "12px", border: "1px solid rgba(112, 150, 209, 0.22)", boxSizing: "border-box", width: "378px", height: "349px",}}>
+          					<img style={{position: "absolute", top: "40px", left: "27px", width: "94px", height: "94px",}} alt="" src="Frame 35581.svg" />
+          					<div style={{position: "absolute", top: "168px", left: "27px", fontWeight: "600",}}>Hi There!</div>
+          					<div style={{position: "absolute", top: "245px", left: "27px", fontSize: "26px", fontWeight: "300", color: "#fff",}}>Live Chat Support</div>
+        				</div>
+      			</div>
+      			<div style={{position: "absolute", top: "1933px", left: "-1px", backgroundColor: "#d2d5ce", width: "1441px", height: "1022px", overflow: "hidden", fontSize: "22px",}}>
+        				<div style={{position: "absolute", top: "1px", left: "0px", width: "1442px", height: "1029px", overflow: "hidden", fontFamily: "'DM Sans'",}}>
+          					<img style={{position: "absolute", top: "-50.33px", left: "4px", width: "1441px", height: "4763.7px",}} alt="" src="actual grid.svg" />
+          					<div style={{position: "absolute", top: "calc(50% - 495.5px)", left: "calc(50% - 599px)", backgroundColor: "#d2d5ce", width: "1224px", height: "992px",}} />
+          					<div style={{position: "absolute", top: "232px", left: "273px", width: "896px", height: "714.4px",}}>
+            						<div style={{position: "absolute", top: "0px", left: "0px", width: "896px", height: "714.4px",}}>
+              							<div style={{position: "absolute", top: "0px", left: "0px", width: "896px", height: "230px", fontSize: "18px", color: "#9e9cb6", fontFamily: "Poppins",}}>
+                								<div style={{position: "absolute", top: "0px", left: "0px", boxShadow: "0px 6px 16px rgba(74, 58, 255, 0.19)", borderRadius: "24px", backgroundColor: "#162766", width: "896px", height: "230px",}} />
+                								<div style={{position: "absolute", top: "39px", left: "38.82px", width: "799.2px", height: "173.7px",}}>
+                  									<div style={{position: "absolute", top: "53.74px", left: "0.02px", lineHeight: "30px", display: "inline-block", width: "715.3px",}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+                  									<div style={{position: "absolute", top: "0px", left: "0px", width: "799.2px", height: "32px", fontSize: "22px", color: "#f9f9f9",}}>
+                    										<div style={{position: "absolute", top: "2px", left: "0px", lineHeight: "28px", fontWeight: "500",}}>How Do I Know If I Qualify for a Mass Tort Case?</div>
+                      											<img style={{position: "absolute", top: "0px", left: "767.18px", width: "32px", height: "32px", objectFit: "contain",}} alt="" src="Group 35540.png" />
+                      											</div>
+                      											</div>
+                      											</div>
+                      											<div style={{position: "absolute", top: "259.27px", left: "0px", width: "896px", height: "132px",}}>
+                        												<div style={{position: "absolute", top: "0px", left: "0px", boxShadow: "0px 5px 16px rgba(8, 15, 52, 0.06)", borderRadius: "24px", backgroundColor: "#162766", width: "896px", height: "132px",}} />
+                        												<div style={{position: "absolute", top: "47.73px", left: "38.82px", width: "800.2px", height: "32px",}}>
+                          													<div style={{position: "absolute", top: "3.92px", left: "0px", lineHeight: "28px", fontWeight: "500",}}>What Happens After I Submit My Case for Review?</div>
+                            														<img style={{position: "absolute", top: "0px", left: "768.18px", width: "32px", height: "32px",}} alt="" src="Group 35539.svg" />
+                            														</div>
+                            														</div>
+                            														<div style={{position: "absolute", top: "420.83px", left: "0px", width: "896px", height: "132px",}}>
+                              															<div style={{position: "absolute", top: "0px", left: "0px", boxShadow: "0px 5px 16px rgba(8, 15, 52, 0.06)", borderRadius: "24px", backgroundColor: "#162766", width: "896px", height: "132px",}} />
+                              															<div style={{position: "absolute", top: "44.17px", left: "38.82px", width: "799.2px", height: "32px",}}>
+                                																<div style={{position: "absolute", top: "2px", left: "0px", lineHeight: "28px", fontWeight: "500",}}>Is There a Fee for Using Connect2Attorney?</div>
+                                  																	<img style={{position: "absolute", top: "0px", left: "767.18px", width: "32px", height: "32px",}} alt="" src="Group 35539.svg" />
+                                  																	</div>
+                                  																	</div>
+                                  																	<div style={{position: "absolute", top: "582.4px", left: "0px", width: "896px", height: "132px",}}>
+                                    																		<div style={{position: "absolute", top: "0px", left: "0px", boxShadow: "0px 5px 16px rgba(8, 15, 52, 0.06)", borderRadius: "24px", backgroundColor: "#162766", width: "896px", height: "132px",}} />
+                                    																		<div style={{position: "absolute", top: "44.6px", left: "38.82px", width: "799.2px", height: "32px",}}>
+                                      																			<div style={{position: "absolute", top: "2px", left: "0px", lineHeight: "28px", fontWeight: "500",}}>What Types of Cases Does Connect2Attorney Handle?</div>
+                                        																				<img style={{position: "absolute", top: "0px", left: "767.18px", width: "32px", height: "32px",}} alt="" src="Group 35539.svg" />
+                                        																				</div>
+                                        																				</div>
+                                        																				</div>
+                                        																				</div>
+                                        																				</div>
+                                        																				<img style={{position: "absolute", top: "46px", left: "1051px", width: "51.2px", height: "52.5px", overflow: "hidden", objectFit: "contain",}} alt="" src="Frame.png" />
+                                        																				<b style={{position: "absolute", top: "62px", left: "calc(50% - 310.5px)", fontSize: "45px", display: "inline-block", color: "#162766", width: "657px",}}>Frequently Asked Questions</b>
+                                        																				<div style={{position: "absolute", top: "130px", left: "calc(50% - 303.5px)", color: "#9193a7",}}>Have questions about our services? We’ve got answers.</div>
+                                          																					</div>
+                                          																					<div style={{position: "absolute", top: "2969px", left: "-2px", backgroundColor: "#162766", width: "1444px", height: "1022px", overflow: "hidden", fontSize: "28.38px",}}>
+                                            																						<img style={{position: "absolute", top: "4px", left: "7px", width: "1435px", height: "1017px", overflow: "hidden",}} alt="" src="Frame 97.svg" />
+                                            																						<div style={{position: "absolute", top: "47px", left: "60px", width: "1330px", height: "930px",}}>
+                                              																							<div style={{position: "absolute", top: "0px", left: "0px", backgroundColor: "#162766", width: "1330px", height: "930px",}} />
+                                              																							<div style={{position: "absolute", top: "36px", left: "40px", width: "336.5px", height: "265px", fontSize: "32px", color: "#000", fontFamily: "'Playfair Display'",}}>
+                                                																								<div style={{position: "absolute", top: "0px", left: "0px", backgroundColor: "#d9d9d9", width: "336.5px", height: "265px",}} />
+                                                																								<div style={{position: "absolute", top: "106px", left: "133px",}}>Logo</div>
+                                              																							</div>
+                                              																							<img style={{position: "absolute", top: "701px", left: "40px", width: "24px", height: "24px", overflow: "hidden",}} alt="" src="Frame.svg" />
+                                              																							<div style={{position: "absolute", top: "396px", left: "43px", fontSize: "20px", lineHeight: "38px", display: "inline-block", width: "414px",}}>Connect2Attorney supports consumers harmed by prescription drugs or medical devices. We offer updates on current recalls and lawsuits and can connect you with one of our specialized legal partners if you need assistance finding an attorney.</div>
+                                              																							<div style={{position: "absolute", top: "696px", left: "84px", fontSize: "18px", lineHeight: "34px",}}>Get Directions</div>
+                                              																							<div style={{position: "absolute", top: "799px", left: "calc(50% - 642px)", borderRadius: "60.82px", width: "60.8px", height: "60.8px", textAlign: "center", color: "#b1b1b2", fontFamily: "'Font Awesome 5 Brands'",}}>
+                                                																								<div style={{position: "absolute", top: "16.22px", left: "calc(50% - 8.85px)", lineHeight: "28.38px", display: "flex", alignItems: "center", justifyContent: "center", width: "18.5px", height: "28.4px",}}></div>
+                                              																							</div>
+                                              																							<img style={{position: "absolute", top: "799px", left: "calc(50% - 565px)", width: "60.8px", height: "60.8px", overflow: "hidden",}} alt="" src="Frame 62.svg" />
+                                              																							<div style={{position: "absolute", top: "799px", left: "calc(50% - 488px)", borderRadius: "60.82px", width: "60.8px", height: "60.8px", textAlign: "center", color: "#b1b1b2", fontFamily: "'Font Awesome 5 Brands'",}}>
+                                                																								<div style={{position: "absolute", top: "16.22px", left: "calc(50% - 12.4px)", lineHeight: "28.38px", display: "flex", alignItems: "center", justifyContent: "center", width: "25.5px", height: "28.4px",}}></div>
+                                              																							</div>
+                                              																							<div style={{position: "absolute", top: "799px", left: "calc(50% - 411px)", borderRadius: "60.82px", width: "60.8px", height: "60.8px", textAlign: "center", color: "#b1b1b2", fontFamily: "'Font Awesome 5 Brands'",}}>
+                                                																								<div style={{position: "absolute", top: "16.22px", left: "calc(50% - 12.42px)", lineHeight: "28.38px", display: "flex", alignItems: "center", justifyContent: "center", width: "25.5px", height: "28.4px",}}></div>
+                                              																							</div>
+                                              																							<div style={{position: "absolute", top: "40px", left: "695px", width: "519.3px", height: "217.5px", fontSize: "20px",}}>
+                                                																								<div style={{position: "absolute", top: "0px", left: "0px", width: "198.3px", display: "flex", flexDirection: "column", alignItems: "flex-start", justifyContent: "flex-start", gap: "23px",}}>
+                                                  																									<div style={{alignSelf: "stretch", position: "relative", textDecoration: "underline", lineHeight: "30px", fontWeight: "600", display: "flex", alignItems: "center", height: "34.2px", flexShrink: "0",}}>Company</div>
+                                                  																									<div style={{width: "198.3px", position: "relative", height: "160.3px", fontSize: "17px",}}>
+                                                    																										<div style={{position: "absolute", top: "0px", left: "0px", lineHeight: "30px", fontWeight: "300", display: "flex", alignItems: "center", width: "155px", height: "34.2px",}}>About Company</div>
+                                                    																										<div style={{position: "absolute", top: "42.18px", left: "0px", lineHeight: "30px", fontWeight: "300", display: "flex", alignItems: "center", width: "102.6px", height: "34.2px",}}>Contact us</div>
+                                                    																										<div style={{position: "absolute", top: "83.89px", left: "0px", lineHeight: "30px", fontWeight: "300", display: "flex", alignItems: "center", width: "198.3px", height: "34.2px",}}>Terms and Conditions</div>
+                                                    																										<div style={{position: "absolute", top: "126.06px", left: "0px", lineHeight: "30px", fontWeight: "300", display: "flex", alignItems: "center", width: "158.5px", height: "34.2px",}}>Privacy Policy</div>
+                                                  																									</div>
+                                                																								</div>
+                                                																								<div style={{position: "absolute", top: "0px", left: "321px", width: "198.3px", display: "flex", flexDirection: "column", alignItems: "flex-start", justifyContent: "flex-start", gap: "23px",}}>
+                                                  																									<div style={{alignSelf: "stretch", position: "relative", textDecoration: "underline", lineHeight: "30px", fontWeight: "600", display: "flex", alignItems: "center", height: "34.2px", flexShrink: "0",}}>Our Expertise</div>
+                                                  																									<div style={{width: "155px", position: "relative", height: "76.8px", fontSize: "17px",}}>
+                                                    																										<div style={{position: "absolute", top: "0px", left: "0px", lineHeight: "30px", fontWeight: "300", display: "flex", alignItems: "center", width: "155px", height: "34.2px",}}>Mass Tort</div>
+                                                    																										<div style={{position: "absolute", top: "41.8px", left: "0px", lineHeight: "30px", fontWeight: "300", display: "flex", alignItems: "center", width: "112px", height: "35px",}}>Class Action</div>
+                                                  																									</div>
+                                                																								</div>
+                                              																							</div>
+                                              																							<div style={{position: "absolute", top: "110.5px", left: "571.5px", borderRight: "1px solid rgba(140, 140, 140, 0.5)", boxSizing: "border-box", width: "1px", height: "784px",}} />
+                                              																							<img style={{position: "absolute", top: "754px", left: "43px", width: "24px", height: "24px", overflow: "hidden",}} alt="" src="Frame.svg" />
+                                              																							<a style={{position: "absolute", top: "747.58px", left: "84px", fontSize: "18px", textDecoration: "underline", lineHeight: "34px", color: "inherit",}} href="mailto:info@connect2attorney.com" target="_blank">info@connect2attorney.com</a>
+                                              																							<div style={{position: "absolute", top: "342px", left: "694px", borderRadius: "8px", border: "1px solid #4b4e8a", boxSizing: "border-box", width: "552px", height: "509px", overflow: "hidden", fontSize: "16px", color: "#686b9a",}}>
+                                                																								<div style={{position: "absolute", top: "417px", left: "calc(50% - 125px)", borderRadius: "12px", backgroundColor: "#f2c438", width: "250px", height: "55px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "center", padding: "19px 70px", boxSizing: "border-box", fontSize: "20px", color: "#0d0d0d",}}>
+                                                  																									<div style={{position: "relative", textTransform: "uppercase", fontWeight: "600",}}>Submit</div>
+                                                																								</div>
+                                                																								<div style={{position: "absolute", top: "24px", left: "calc(50% - 138px)", lineHeight: "28px", textAlign: "center", fontSize: "20px", color: "#f9f9f9",}}>
+                                                  																									<p style={{margin: "0",}}>
+                                                    																										<span>
+                                                      																											<span style={{fontWeight: "600", fontFamily: "Poppins",}}>General Inquiries?</span>
+                                                        																												</span>
+                                                        																												<span>
+                                                          																													<span>{` `}</span>
+                                                        																												</span>
+                                                        																												</p>
+                                                        																												<p style={{margin: "0", fontSize: "18px", color: "#a7a7a7",}}>
+                                                          																													<span>
+                                                            																														<span>This form has got you covered.</span>
+                                                          																													</span>
+                                                        																												</p>
+                                                        																												</div>
+                                                        																												<div style={{position: "absolute", top: "117px", left: "65px", filter: "drop-shadow(0px 4px 4px rgba(154, 194, 255, 0.29))", borderRadius: "16px", border: "0.9px solid #f9f9f9", boxSizing: "border-box", width: "423px", height: "42px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "8.9px 8.9px 8.9px 27.5px", color: "#d8d8d8",}}>
+                                                          																													<div style={{position: "relative",}}>Name</div>
+                                                        																												</div>
+                                                        																												<div style={{position: "absolute", top: "190px", left: "65px", borderRadius: "16px", border: "0.9px solid #89898b", boxSizing: "border-box", width: "423px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "8.9px 8.9px 8.9px 27.5px", color: "rgba(104, 107, 154, 0.7)",}}>
+                                                          																													<div style={{position: "relative",}}>Phone Number</div>
+                                                        																												</div>
+                                                        																												<div style={{position: "absolute", top: "263px", left: "65px", borderRadius: "11.99px", border: "0.7px solid #b9b9b9", boxSizing: "border-box", width: "423px", height: "43px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "6.7px 6.7px 6.7px 20.7px",}}>
+                                                          																													<div style={{position: "relative",}}>E-Mail Id</div>
+                                                        																												</div>
+                                                        																												<div style={{position: "absolute", top: "336px", left: "65px", borderRadius: "11.99px", border: "0.7px solid #89898b", boxSizing: "border-box", width: "423px", height: "43px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "6.7px 62px 6.7px 20.7px",}}>
+                                                          																													<div style={{position: "relative",}}>How can we provide clarity for you?</div>
+                                                            																														</div>
+                                                            																														</div>
+                                                            																														<img style={{position: "absolute", top: "307px", left: "1237px", width: "51.2px", height: "52.5px", overflow: "hidden", objectFit: "contain",}} alt="" src="Frame.png" />
+                                                            																														</div>
+                                                            																														</div>
+                                                            																														<img style={{position: "absolute", top: "165px", left: "44px", width: "42px", height: "42px", overflow: "hidden",}} alt="" src="Frame.svg" />
+                                                            																														<div style={{position: "absolute", top: "0px", left: "0px", backgroundColor: "#d2d5ce", width: "1440px", height: "136px", overflowX: "auto", color: "#000",}}>
+                                                              																															<div style={{position: "absolute", top: "34px", left: "51px", backgroundColor: "#d9d9d9", width: "117px", height: "65.7px",}} />
+                                                              																															<div style={{position: "absolute", top: "56px", left: "91px", fontSize: "14.94px", fontWeight: "500",}}>Logo</div>
+                                                              																															<div style={{position: "absolute", top: "54px", left: "1274px", width: "82px", height: "27px", color: "#162766",}}>
+                                                                																																<img style={{position: "absolute", height: "88.89%", width: "29.27%", top: "11.11%", right: "70.73%", bottom: "0%", left: "0%", maxWidth: "100%", overflow: "hidden", maxHeight: "100%",}} alt="" src="noun-menu-1166847 11.svg" />
+                                                                																																<div style={{position: "absolute", top: "0%", left: "36.59%", fontWeight: "600",}}>Menu</div>
+                                                              																															</div>
+                                                              																															<div style={{position: "absolute", top: "44px", left: "199px", borderRadius: "8px", border: "1px solid #162766", boxSizing: "border-box", width: "540px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "10px 10px 10px 31px", color: "#9f9f9f",}}>
+                                                                																																<div style={{width: "214px", position: "relative", height: "27px",}}>
+                                                                  																																	<img style={{position: "absolute", top: "2px", left: "0px", width: "24px", height: "24px", overflow: "hidden",}} alt="" src="Frame.svg" />
+                                                                  																																	<div style={{position: "absolute", top: "0px", left: "32px", fontWeight: "200",}}>Find what you need...</div>
+                                                                																																</div>
+                                                              																															</div>
+                                                              																															<div style={{position: "absolute", top: "46px", left: "1061px", width: "156px", height: "43px", textAlign: "center", fontSize: "13.06px", color: "#050b77",}}>
+                                                                																																<div style={{position: "absolute", top: "22.29px", left: "48.41px", fontWeight: "500",}}>(888) 202-1350</div>
+                                                                																																<div style={{position: "absolute", top: "0px", left: "43.04px", fontSize: "13.83px", fontWeight: "200", color: "#162766",}}>Toll Free Number</div>
+                                                                																																<img style={{position: "absolute", top: "4.61px", left: "0px", width: "38.4px", height: "38.4px", overflow: "hidden",}} alt="" src="Frame.svg" />
+                                                              																															</div>
+                                                            																														</div>
+                                                            																														<div style={{position: "absolute", top: "1257px", left: "calc(50% - 140px)", borderRadius: "12px", backgroundColor: "#112054", border: "1px solid rgba(112, 150, 209, 0.22)", boxSizing: "border-box", width: "281px", height: "56px",}}>
+                                                              																															<div style={{position: "absolute", top: "14px", left: "37px", fontWeight: "300",}}>Find Us on the Map</div>
+                                                              																															<img style={{position: "absolute", top: "15px", left: "220px", width: "24px", height: "24px", overflow: "hidden",}} alt="" src="Frame.svg" />
+                                                            																														</div>
+                                                            																														</div>);
+                                                          																													};
+                                                          																													
+                                                          																													export default ContactUs;
+                                                          																													

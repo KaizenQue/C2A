@@ -1,0 +1,38 @@
+
+
+const Section16 = () => {
+  	return (
+    		<div style={{width: "100%", position: "relative", backgroundColor: "#d2d5ce", height: "1153px", overflow: "hidden", textAlign: "left", fontSize: "20px", color: "#162766", fontFamily: "Poppins",}}>
+      			<img style={{position: "absolute", top: "3px", left: "-4px", width: "1449px", height: "899px", overflow: "hidden",}} alt="" src="Frame 90.svg" />
+      			<div style={{position: "absolute", top: "46px", left: "319px", backgroundColor: "#d2d5ce", width: "798px", height: "147px", textAlign: "center", fontSize: "45px",}}>
+        				<b style={{position: "absolute", top: "23px", left: "calc(50% - 372px)",}}>Updates on Active Legal Matters</b>
+        				<div style={{position: "absolute", top: "91px", left: "calc(50% - 254px)", fontSize: "22px", color: "#5a5a5a",}}>Get the latest updates on ongoing legal cases.</div>
+      			</div>
+      			<div style={{position: "absolute", top: "263px", left: "1px", width: "1444px", height: "599px", fontSize: "34px", color: "#050b77",}}>
+        				<img style={{position: "absolute", top: "0px", left: "0px", width: "1444px", height: "732px", objectFit: "cover",}} alt="" src="Rectangle 3232.png" />
+        				<img style={{position: "absolute", top: "0px", left: "0px", width: "1440px", height: "732px",}} alt="" src="Rectangle 3246.svg" />
+        				<img style={{position: "absolute", top: "calc(50% + 230.5px)", left: "1360px", width: "32px", height: "32px", overflow: "hidden",}} alt="" src="Frame.svg" />
+        				<img style={{position: "absolute", top: "calc(50% + 230.5px)", left: "1305px", width: "32px", height: "32px", overflow: "hidden", objectFit: "contain",}} alt="" src="Frame.svg" />
+        				<div style={{position: "absolute", top: "calc(50% - 223.5px)", left: "calc(50% - 673px)", backdropFilter: "blur(30px)", borderRadius: "40px", backgroundColor: "rgba(168, 168, 197, 0.7)", width: "743px", height: "346px",}} />
+        				<img style={{position: "absolute", top: "367px", left: "694px", width: "32px", height: "32px", overflow: "hidden",}} alt="" src="Frame.svg" />
+        				<b style={{position: "absolute", top: "127px", left: "120px", lineHeight: "49px", display: "inline-block", width: "601px",}}>Discovery Disputes in Hair Relaxer MDL: Plaintiffs Demand Accountability as Deadlines Loom</b>
+        				<div style={{position: "absolute", top: "290px", left: "120px", fontSize: "14px", lineHeight: "26px", fontWeight: "300", display: "inline-block", width: "598px",}}>Discovery disputes in the ongoing Hair Relaxer MDL are heating up as plaintiffs’ lawyers accuse defendants of stonewalling on crucial information needed to advance the litigation.</div>
+      			</div>
+      			<div style={{position: "absolute", top: "884px", left: "898px", borderRadius: "30px", backgroundColor: "#f9f9f9", width: "489px", height: "184px", overflow: "hidden",}}>
+        				<div style={{position: "absolute", top: "32px", left: "249px", fontWeight: "600", display: "inline-block", width: "240px",}}>Uterine Fibroid Settlement Payouts</div>
+        				<img style={{position: "absolute", top: "14px", left: "19px", borderRadius: "30px", width: "205px", height: "156px", objectFit: "cover",}} alt="" src="Rectangle 3229.png" />
+        				<div style={{position: "absolute", top: "14px", left: "19px", borderRadius: "30px", background: "linear-gradient(180deg, rgba(5, 11, 119, 0.4), rgba(5, 11, 119, 0.3))", width: "205px", height: "156px",}} />
+        				<div style={{position: "absolute", top: "102px", left: "249px", fontSize: "14px", color: "#89898b",}}>Updated on 13/1/2024</div>
+      			</div>
+      			<div style={{position: "absolute", top: "884px", left: "370px", borderRadius: "30px", backgroundColor: "#f9f9f9", width: "489px", height: "184px", overflow: "hidden",}}>
+        				<div style={{position: "absolute", top: "37px", left: "244px", fontWeight: "600", display: "inline-block", width: "240px",}}>Uterine Fibroid Settlement Payouts</div>
+        				<div style={{position: "absolute", top: "12px", left: "16px", width: "205px", height: "156px",}}>
+          					<img style={{position: "absolute", top: "0px", left: "0px", borderRadius: "30px", width: "205px", height: "156px", objectFit: "cover",}} alt="" src="Rectangle 3231.png" />
+          					<div style={{position: "absolute", top: "0px", left: "0px", borderRadius: "30px", background: "linear-gradient(180deg, rgba(5, 11, 119, 0.4), rgba(5, 11, 119, 0.3))", width: "205px", height: "156px",}} />
+        				</div>
+        				<div style={{position: "absolute", top: "104px", left: "244px", fontSize: "14px", color: "#89898b",}}>Updated on 12/1/2024</div>
+      			</div>
+    		</div>);
+};
+
+export default Section16;

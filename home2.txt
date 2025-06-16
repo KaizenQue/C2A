@@ -1,0 +1,53 @@
+
+
+const GetAFreeCaseReview = () => {
+  	return (
+    		<div style={{width: "100%", position: "relative", backgroundColor: "#162766", height: "1077px", overflow: "hidden", textAlign: "left", fontSize: "22px", color: "rgba(141, 142, 158, 0.7)", fontFamily: "Poppins",}}>
+      			<div style={{position: "absolute", top: "0px", left: "-2px", width: "1444px", height: "1076px", overflow: "hidden",}}>
+        				<img style={{position: "absolute", top: "-50.33px", left: "4px", width: "1449px", height: "4763.7px",}} alt="" src="actual grid.svg" />
+        				<div style={{position: "absolute", top: "147px", left: "55px", width: "1334px", height: "794px",}}>
+          					<div style={{position: "absolute", top: "calc(50% - 502px)", left: "calc(50% - 672px)", backgroundColor: "#162766", width: "1345px", height: "988px",}} />
+          					<div style={{position: "absolute", top: "99px", left: "50px", borderRadius: "15.98px", border: "0.9px solid #f9f9f9", boxSizing: "border-box", width: "567px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "8px 8px 8px 27px", color: "#d8d8d8",}}>
+            						<div style={{position: "relative",}}>Name</div>
+          					</div>
+          					<div style={{position: "absolute", top: "182px", left: "50px", borderRadius: "15px", border: "0.9px solid #8d8e9e", boxSizing: "border-box", width: "563px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "8px 8px 8px 27px",}}>
+            						<div style={{position: "relative",}}>Phone Number</div>
+          					</div>
+          					<div style={{position: "absolute", top: "265.94px", left: "50px", borderRadius: "15.98px", border: "0.9px solid #8d8e9e", boxSizing: "border-box", width: "563.9px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "8.9px 8.9px 8.9px 27.5px",}}>
+            						<div style={{position: "relative",}}>E-Mail Id</div>
+          					</div>
+          					<div style={{position: "absolute", top: "349.41px", left: "50px", borderRadius: "15.98px", border: "0.9px solid #8d8e9e", boxSizing: "border-box", width: "563.9px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "8.9px 8.9px 8.9px 27.5px", gap: "258.4px",}}>
+            						<div style={{position: "relative",}}>Select the category</div>
+            						<img style={{width: "21.3px", position: "relative", height: "21.3px", overflow: "hidden", flexShrink: "0",}} alt="" src="Frame.svg" />
+          					</div>
+          					<div style={{position: "absolute", top: "432.88px", left: "50px", borderRadius: "15.98px", border: "0.9px solid #8d8e9e", boxSizing: "border-box", width: "563.9px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", padding: "8.9px 8.9px 8.9px 27.5px", gap: "249.5px",}}>
+            						<div style={{position: "relative",}}>Select Your Concern</div>
+            						<img style={{width: "21.3px", position: "relative", height: "21.3px", overflow: "hidden", flexShrink: "0",}} alt="" src="Frame.svg" />
+          					</div>
+          					<div style={{position: "absolute", top: "516.35px", left: "50px", borderRadius: "15.98px", border: "0.9px solid #8d8e9e", boxSizing: "border-box", width: "563.9px", height: "146.5px", overflow: "hidden",}}>
+            						<img style={{position: "absolute", top: "103.65px", left: "521.88px", width: "26px", height: "26px", overflow: "hidden",}} alt="" src="noun-paper-pin-3083493 1.svg" />
+            						<div style={{position: "absolute", top: "8.88px", left: "27.53px",}}>Brief Case History</div>
+            						<div style={{position: "absolute", top: "103.65px", left: "495.88px", boxShadow: "0px 4.879807472229004px 4.88px rgba(0, 0, 0, 0.25)", width: "26px", height: "26px", overflow: "hidden", fontSize: "5.42px", fontFamily: "Inter",}}>
+              							<img style={{position: "absolute", height: "51.54%", width: "53.08%", top: "17.89%", right: "21.92%", bottom: "30.57%", left: "25%", maxWidth: "100%", overflow: "hidden", maxHeight: "100%",}} alt="" src="Vector.svg" />
+              							<img style={{position: "absolute", height: "20.77%", width: "5.77%", top: "64.22%", right: "47.02%", bottom: "15.01%", left: "47.21%", maxWidth: "100%", overflow: "hidden", maxHeight: "100%",}} alt="" src="Vector.svg" />
+              							<img style={{position: "absolute", height: "51.54%", width: "29.62%", top: "7.59%", right: "35.29%", bottom: "40.87%", left: "35.1%", maxWidth: "100%", overflow: "hidden", maxHeight: "100%",}} alt="" src="Vector.svg" />
+              							<b style={{position: "absolute", height: "27.31%", width: "90%", top: "113.64%", left: "0%", display: "inline-block",}}>from the Noun Project</b>
+            						</div>
+          					</div>
+          					<div style={{position: "absolute", top: "707px", left: "126px", borderRadius: "12px", backgroundColor: "#f2c438", width: "412px", height: "57px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "center", padding: "19px 70px", boxSizing: "border-box", fontSize: "20px", color: "#000",}}>
+            						<div style={{position: "relative", textTransform: "uppercase", fontWeight: "600",}}>CONTINUE</div>
+          					</div>
+        				</div>
+      			</div>
+      			<img style={{position: "absolute", top: "137px", left: "807px", width: "580px", height: "877px", overflow: "hidden",}} alt="" src="Desktop - 2.svg" />
+      			<div style={{position: "absolute", top: "46px", left: "441px", backgroundColor: "#162766", width: "591px", height: "130px", fontSize: "45px", color: "#f9f9f9",}}>
+        				<div style={{position: "absolute", top: "0px", left: "10px", width: "581.2px", height: "117px",}}>
+          					<b style={{position: "absolute", top: "16px", left: "0px",}}>Get a Free Case Review</b>
+          					<img style={{position: "absolute", top: "0px", left: "530px", width: "51.2px", height: "52.5px", overflow: "hidden", objectFit: "contain",}} alt="" src="Frame.png" />
+          					<div style={{position: "absolute", top: "84px", left: "calc(50% - 259.6px)", fontSize: "22px", color: "#9193a7",}}>Get the Answers You Need, Absolutely Free!</div>
+        				</div>
+      			</div>
+    		</div>);
+};
+
+export default GetAFreeCaseReview;

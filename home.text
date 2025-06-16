@@ -1,0 +1,22 @@
+
+
+const Banner = () => {
+  	return (
+    		<div style={{width: "100%", position: "relative", backgroundColor: "#d2d5ce", height: "888px", overflowY: "auto", textAlign: "center", fontSize: "68px", color: "#162766", fontFamily: "Poppins",}}>
+      			<img style={{position: "absolute", top: "-9px", left: "0px", width: "1449px", height: "899px", overflow: "hidden",}} alt="" src="Frame 90.svg" />
+      			<img style={{position: "absolute", top: "20px", left: "72px", width: "737px", height: "868px", objectFit: "cover",}} alt="" src="a27ca0c120f2ca2dc665d8843936512e 1.png" />
+      			<div style={{position: "absolute", top: "153px", left: "784px", backgroundColor: "#d2d5ce", width: "582px", height: "471px",}}>
+        				<div style={{position: "absolute", top: "0px", left: "86px", fontWeight: "300", display: "inline-block", width: "410.6px", height: "115.1px",}}>
+          					<p style={{margin: "0",}}>Your Case</p>
+        				</div>
+        				<div style={{position: "absolute", top: "55.1px", left: "12px", fontSize: "132px", fontWeight: "800", display: "inline-block", width: "558px", height: "140.5px",}}>Matters</div>
+        				<div style={{position: "absolute", top: "248px", left: "19px", fontSize: "26px", textTransform: "capitalize", fontWeight: "600", color: "#5a5a5a", display: "inline-block", width: "544px",}}>Join the movement for justice</div>
+        				<div style={{position: "absolute", top: "361px", left: "93px", borderRadius: "12px", backgroundColor: "#f2c438", width: "396px", height: "62px", display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "center", padding: "14px 127px 14px 126px", boxSizing: "border-box", gap: "10px", fontSize: "20px", color: "#0d0d0d",}}>
+          					<div style={{position: "relative", textTransform: "uppercase", fontWeight: "600",}}>Get a Free Case Review</div>
+          					<img style={{width: "24px", position: "relative", height: "24px", overflow: "hidden", flexShrink: "0",}} alt="" src="Frame.svg" />
+        				</div>
+      			</div>
+    		</div>);
+};
+
+export default Banner;
